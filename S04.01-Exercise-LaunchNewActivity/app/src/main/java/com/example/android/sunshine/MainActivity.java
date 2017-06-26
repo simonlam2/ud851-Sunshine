@@ -38,6 +38,8 @@ import java.net.URL;
 
 public class MainActivity extends AppCompatActivity implements ForecastAdapterOnClickHandler {
 
+    //changes for testing 
+
     private RecyclerView mRecyclerView;
     private ForecastAdapter mForecastAdapter;
 
